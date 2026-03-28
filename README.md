@@ -6,7 +6,7 @@ Plano de carreira aprender cibersegurança
 **Início da jornada:** Março 2026  
 **Meta:** Em 5 anos ser profissional de Cibersegurança com Python (Red Team ou Blue Team)
 
-> "Prometi dedicar 5 anos da minha vida para sair da segurança e entrar na área de tecnologia. Este portfólio documenta cada passo dessa promessa."
+> "Prometi dedicar 5 anos da minha vida para sair da área de paisagismo e entrar na área de tecnologia. Este portfólio documenta cada passo dessa promessa."
 
 ---
 
