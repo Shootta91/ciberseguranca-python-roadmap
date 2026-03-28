@@ -2,7 +2,7 @@
 Plano de carreira aprender cibersegurança 
 # 🚀 Augusto Nascimento - Portfólio de Transição para Cibersegurança
 
-**Ex-Policial/Segurança → Futuro Analista de Cibersegurança / Pentester**  
+**Jardineiro → Futuro Analista de Cibersegurança / Pentester**  
 **Início da jornada:** Março 2026  
 **Meta:** Em 5 anos ser profissional de Cibersegurança com Python (Red Team ou Blue Team)
 
